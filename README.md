@@ -49,6 +49,13 @@ Comic Con 2016
 Xmas Hackathon   
 
 ### About us
+Danielle Vass   
+John Reeves   
+Katia   
+Dawid   
+Emma   
+Izzy   
+
 
 # nice to have
 
