@@ -18,6 +18,8 @@ Bath Digital Festival
 Xmas Hackathon
 
 ### Regular clubs
+
+
 St Stephens on Tuesdays & Thursdays   
 Hayesfield onWednesdays   
 Beechen Cliff on Thursdays   
@@ -47,15 +49,21 @@ Comic Con 2016
 #### 2015
 
 Xmas Hackathon   
+Young Rewired State   
+BRLSI Young Science Workshops   
+Internet of Things Hackathon   
+Museum of the History of Science UoO
+
 
 ### About us
-Danielle Vass   
-John Reeves   
-Katia   
-Dawid   
-Emma   
-Izzy   
 
+Danielle Vass (mobile app developer)   
+John Reeves (mechatronic validation)   
+Katia Reeves (the youngest computer scientist)   
+Maell Cullen (computational biology)   
+Dawid Czerwinsky (software engineer)   
+Emma Klass (creative computing)   
+Isobel Romero-Shaw (computational physics)       
 
 # nice to have
 
