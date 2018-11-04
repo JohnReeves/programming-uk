@@ -68,3 +68,10 @@ Isobel Romero-Shaw (computational physics)
 # nice to have
 
 ### Achievements
+
+* July 2018 Tech for Good  
+* May - June 2018 ICSE ACM's First Workshop On Gender Equality In Software Engineering
+* October xth 2014 - Ignite evening part of the Bath Digital Festival https://www.mysociety.org/2014/11/06/bath-digital-festival-links-videos-and-slides/  
+* july 8th 2014 - elearning day at Bath Spa University  
+* February 24th 2015 - participation in digital citizenship with Mirandanet  
+
