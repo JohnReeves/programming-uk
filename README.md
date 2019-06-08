@@ -13,13 +13,10 @@ Constructivism
 Simplicity
 
 ### Upcoming events
-Last few months of 2018   
-Bath Digital Festival   
-Xmas Hackathon
+Second half of 2019   
+
 
 ### Regular clubs
-
-
 St Stephens on Tuesdays & Thursdays   
 Hayesfield onWednesdays   
 Beechen Cliff on Thursdays   
@@ -27,8 +24,15 @@ Guild Coworking Space on Saturdays
 BRLSI Science Workshops on Tuesdays   
 
 ### Past events
+
+#### 2019
+
+Hayesfield Girls' School Cyber Challenge - not mine but worth shouting about
+
 #### 2018
 
+Xmas Hackathon
+Bath Digital Festival 2018  
 Farnborough 2018 - 3 days of coding workshops for kids   
 ICSE 2018 ACM's First Workshop on Gender Equality in Software Engineering   
 St Stephens Classroom Workshops - 2 days teaching all the kids in KS 1&2   
