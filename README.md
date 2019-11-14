@@ -27,13 +27,13 @@ BRLSI Science Workshops on Tuesdays
 
 #### 2019
 
-Bath Digital Festival 2019
-Hayesfield Girls' School Cyber Challenge
+Bath Digital Festival 2019   
+Hayesfield Girls' School Cyber Challenge   
 
 #### 2018
 
-Xmas Hackathon 2018
-Bath Digital Festival 2018  
+Xmas Hackathon 2018   
+Bath Digital Festival 2018   
 Farnborough 2018 - 3 days of coding workshops for kids   
 ICSE 2018 ACM's First Workshop on Gender Equality in Software Engineering   
 St Stephens Classroom Workshops - 2 days teaching all the kids in KS 1&2   
