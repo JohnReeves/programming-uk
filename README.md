@@ -13,12 +13,12 @@ Constructivism
 Simplicity
 
 ### Upcoming events
-Second half of 2019   
+Xmas hackathon 2019
 
 
 ### Regular clubs
 St Stephens on Tuesdays & Thursdays   
-Hayesfield onWednesdays   
+Hayesfield on Wednesdays   
 Beechen Cliff on Thursdays   
 Guild Coworking Space on Saturdays   
 BRLSI Science Workshops on Tuesdays   
@@ -27,11 +27,12 @@ BRLSI Science Workshops on Tuesdays
 
 #### 2019
 
-Hayesfield Girls' School Cyber Challenge - not mine but worth shouting about
+Bath Digital Festival 2019
+Hayesfield Girls' School Cyber Challenge
 
 #### 2018
 
-Xmas Hackathon
+Xmas Hackathon 2018
 Bath Digital Festival 2018  
 Farnborough 2018 - 3 days of coding workshops for kids   
 ICSE 2018 ACM's First Workshop on Gender Equality in Software Engineering   
@@ -63,7 +64,8 @@ Museum of the History of Science UoO
 
 Danielle Vass (mobile app developer)   
 John Reeves (mechatronic validation)   
-Katia Reeves (the youngest computer scientist)   
+Katia Reeves (the youngest computer scientist)
+Elly (the creative engineer / student)
 Maell Cullen (computational biology)   
 Dawid Czerwinsky (software engineer)   
 Emma Klass (creative computing)   
