@@ -76,7 +76,7 @@ Isobel Romero-Shaw (computational physics)
 Thomas Westhoff (software engineer)   
 Toby ?? (mathematics graduate)   
 Mark Simpson (aeronautics graduate)   
-Bethany ?? (physics graduate)   
+Bethany Probert (physics graduate)   
 
 # nice to have
 
