@@ -10,9 +10,9 @@ Teach Programming CIC
 Relevance   
 Creativity   
 Constructivism   
-Simplicity
-Inclusion
-Diversity
+Simplicity   
+Inclusion   
+Diversity   
 
 ### Upcoming events
 Xmas hackathon 2019
@@ -51,7 +51,7 @@ Cubs Digital Skills Badge
 #### 2016
 
 Xmas Hackathon 2016   
-Bath Digital Festival 2016 (at the Scouts' HQ)
+Bath Digital Festival 2016 (at the Scouts' HQ)   
 Comic Con 2016   
 
 #### 2015
@@ -73,6 +73,10 @@ Maell Cullen (computational biology)
 Dawid Czerwinsky (software engineer)   
 Emma Klass (creative computing)   
 Isobel Romero-Shaw (computational physics)   
+Thomas Westhoff (software engineer)   
+Toby ?? (mathematics graduate)   
+Mark Simpson (aeronautics graduate)   
+Bethany ?? (physics graduate)   
 
 # nice to have
 
