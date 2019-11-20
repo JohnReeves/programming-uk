@@ -11,6 +11,8 @@ Relevance
 Creativity   
 Constructivism   
 Simplicity
+Inclusion
+Diversity
 
 ### Upcoming events
 Xmas hackathon 2019
@@ -41,19 +43,20 @@ Scouts Digital Makers Badge
 
 #### 2017
 
-Xmas Hackathon   
+Xmas Hackathon 2017   
 Interfaith Hackathon for Teens for Social Impact in Education   
 Bath Digital Festival 2017   
 Cubs Digital Skills Badge   
 
 #### 2016
 
-Xmas Hackathon  
+Xmas Hackathon 2016   
+Bath Digital Festival 2016 (at the Scouts' HQ)
 Comic Con 2016   
 
 #### 2015
 
-Xmas Hackathon   
+Xmas Hackathon 2015   
 Young Rewired State   
 BRLSI Young Science Workshops   
 Internet of Things Hackathon   
