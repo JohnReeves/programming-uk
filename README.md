@@ -1,7 +1,9 @@
 # programming-uk
 Website code for programming-uk.com based on the original by de-v. Content added, style unchanged.
 
-## Layout
+(Most likely developed from the Bootstrap Agency template.)
+
+## Layout / Content
 
 ### Title
 Teach Programming CIC
@@ -15,14 +17,16 @@ Inclusion
 Diversity   
 
 ### Upcoming events
-Xmas hackathon 2019
+Xmas hackathon 2019   
+Making electronic Christmass cards with physical electronics and craft skills.   
 
 
 ### Regular clubs
+
+Guild Coworking Space on Saturdays   
 St Stephens on Tuesdays & Thursdays   
 Hayesfield on Wednesdays   
 Beechen Cliff on Thursdays   
-Guild Coworking Space on Saturdays   
 BRLSI Science Workshops on Tuesdays   
 
 ### Past events
@@ -65,17 +69,26 @@ Museum of the History of Science UoO
 
 ### About us
 
+#### The crazy founders
 Danielle Vass (mobile app developer)   
 John Reeves (mechatronic validation)   
+
+#### Students become teachers
 Katia Reeves (the youngest computer scientist)   
-Elly (the creative engineer / student)   
+Elly (the creative engineer / student)  
+Emma Klass (creative computing)  
+Bee Healy (computer science undergrad)   
+
+#### Altran juniors
 Maell Cullen (computational biology)   
 Dawid Czerwinsky (software engineer)   
-Emma Klass (creative computing)   
 Isobel Romero-Shaw (computational physics)   
-Thomas Westhoff (software engineer)   
+
+#### Altran-ISY apprentices
+Thomas Westhoff (software engineering apprentice)   
 Toby ?? (mathematics graduate)   
 Mark Simpson (aeronautics graduate)   
+Charlie Parsons (software engineering apprentice)   
 Bethany Probert (physics graduate)   
 
 # nice to have
@@ -84,7 +97,10 @@ Bethany Probert (physics graduate)
 
 * July 2018 Tech for Good  
 * May - June 2018 ICSE ACM's First Workshop On Gender Equality In Software Engineering   
+* Sept 2016 Who am I emoji worksheets at Hayesfield  
+* July 2015 Danielle's world tour of speaking  
+* Jan - May 2015 Teaching all the girls in Years 7,8,9 at Hayesfield  
 * October xth 2014 - Ignite evening part of the Bath Digital Festival https://www.mysociety.org/2014/11/06/bath-digital-festival-links-videos-and-slides/  
 * july 8th 2014 - elearning day at Bath Spa University  
-* February 24th 2015 - participation in digital citizenship with Mirandanet  
+* February 24th 2014 - participation in digital citizenship with Mirandanet  
 
