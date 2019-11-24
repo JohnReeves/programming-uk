@@ -1,12 +1,19 @@
 # programming-uk
 Website code for programming-uk.com based on the original by de-v. Content added, style unchanged.
 
+## domain ownership
+* programming-uk.com   
+* grubmz6v.com   
+* digital-makers.uk   
+* project-tigr.uk   
+
 (Most likely developed from the Bootstrap Agency template.)
 
 ## Layout / Content
 
 ### Title
-Teach Programming CIC
+#### Teach Programming CIC   
+Teach Programming is a community interest company we founded to enable more young people, especially girls, to experience the joy of programming.   
 
 ### Principles
 Relevance   
