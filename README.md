@@ -93,7 +93,7 @@ Isobel Romero-Shaw (computational physics)
 
 #### Altran-ISY apprentices
 Thomas Westhoff (software engineering apprentice)   
-Toby ?? (mathematics graduate)   
+Toby Morgan (maths & computer science graduate)   
 Mark Simpson (aeronautics graduate)   
 Charlie Parsons (software engineering apprentice)   
 Bethany Probert (physics graduate)   
