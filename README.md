@@ -105,9 +105,11 @@ Bethany Probert (physics graduate)
 * July 2018 Tech for Good  
 * May - June 2018 ICSE ACM's First Workshop On Gender Equality In Software Engineering   
 * Sept 2016 Who am I emoji worksheets at Hayesfield  
-* July 2015 Danielle's world tour of speaking  
+* kickstarter program to make junior computer science bookshttps://i.imgur.com/wfxmK1K.png    
+* July 2015 Danielle's world tour of speaking http://www.de-velopment.com/index.html  
 * Jan - May 2015 Teaching all the girls in Years 7,8,9 at Hayesfield  
 * October xth 2014 - Ignite evening part of the Bath Digital Festival https://www.mysociety.org/2014/11/06/bath-digital-festival-links-videos-and-slides/  
+* project-tigr, the tool Danielle made to make it easy to work in school   
 * july 8th 2014 - elearning day at Bath Spa University  
 * February 24th 2014 - participation in digital citizenship with Mirandanet  
 
