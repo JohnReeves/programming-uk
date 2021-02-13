@@ -1,11 +1,11 @@
 # programming-uk
-Website code for programming-uk.com based on the original by de-v. Content added, style unchanged.
+Website code for programming-uk.com based on the original by de-v. Content added, style unchanged.   
 
-Finally managing to update the site and materials after a year of long-Covid.
+Finally managing to update the site and materials after a year of long-Covid.   
 
-I shall give a brief description somewhere, link to the creative websites and add the repl.it things to the worksheets.
+I shall give a brief description somewhere, link to the creative websites and add the repl.it things to the worksheets.   
 
-https://repl.it/@JohnReeves/
+https://repl.it/@JohnReeves/   
 
 
 ## domain ownership
@@ -34,8 +34,8 @@ Upcoming events replaced by:
 
 ### Creative Home Computing due to SARS-CoV-2
 
-Pandemic Creativity
-Creative Materials
+Pandemic Creativity   
+Creative Materials   
 
 ### Regular clubs
 
