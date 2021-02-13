@@ -1,6 +1,13 @@
 # programming-uk
 Website code for programming-uk.com based on the original by de-v. Content added, style unchanged.
 
+Finally managing to update the site and materials after a year of long-Covid.
+
+I shall give a brief description somewhere, link to the creative websites and add the repl.it things to the worksheets.
+
+https://repl.it/@JohnReeves/
+
+
 ## domain ownership
 * programming-uk.com   
 * grubmz6v.com   
@@ -23,10 +30,12 @@ Simplicity
 Inclusion   
 Diversity   
 
-### Upcoming events
-Xmas hackathon 2019   
-Making electronic Christmass cards with physical electronics and craft skills.   
+Upcoming events replaced by:
 
+### Creative Home Computing due to SARS-CoV-2
+
+Pandemic Creativity
+Creative Materials
 
 ### Regular clubs
 
@@ -39,6 +48,9 @@ BRLSI Science Workshops on Tuesdays
 ### Past events
 
 #### 2019
+
+Xmas hackathon 2019   
+Making electronic Christmass cards with physical electronics and craft skills.   
 
 Bath Digital Festival 2019   
 Hayesfield Girls' School Cyber Challenge   
